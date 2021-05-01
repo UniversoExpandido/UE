@@ -28,7 +28,7 @@ At SWGEmu, Emulator refers to the software the SWGEmu team is building. This Emu
 
   * Install dependencies (Debian 9+ or Ubuntu 16.04+)
 
-        sudo apt install build-essential libmysqlclient-dev liblua5.3-dev libdb5.3-dev libssl-dev cmake git default-jr
+        sudo apt install build-essential libmysqlclient-dev liblua5.3-dev libdb5.3-dev libssl-dev cmake git default-jre
 
   * Install dependencies (RHEL/CentOS 8+ or Fedora 28+)
 
