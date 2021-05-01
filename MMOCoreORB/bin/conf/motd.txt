@@ -1,0 +1,1 @@
+Por favor, no olvidar reiniciar completamente el Cliente si el Servidor crashea o reinicia, o se sufre algun tipo de bug en el login.

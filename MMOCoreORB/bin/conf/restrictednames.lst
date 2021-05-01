@@ -1,0 +1,13 @@
+
+[profane]
+--These is where the profane words go.  If any of these words are in a part of the name, it will be filtered.
+
+[developer]
+--This is where names similar to develper names go.
+--I can't think of any
+
+[fiction]
+--This is where star wars names you want filtered go.
+
+[reserved]
+--This is where you put any other restricted name.
