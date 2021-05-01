@@ -1,6 +1,3 @@
-## [Full Guide and info for installing the Dev VM.](https://github.com/ModTheGalaxy/mtgserver/wiki/Guide-DevEnv-Setup)
-
-
 # SWGEmu Core3 #
 
 ## What is SWGEmu?
