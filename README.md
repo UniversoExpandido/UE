@@ -68,5 +68,5 @@ At SWGEmu, Emulator refers to the software the SWGEmu team is building. This Emu
 
 For more information, see https://review.swgemu.com.
 
-Special thanks to SWGEmu Team & Mod The Galaxy Developers (2021).
+Special thanks to SWGEmu-Team & Mod The Galaxy Developers (2021).
 
